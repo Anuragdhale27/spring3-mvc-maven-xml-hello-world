@@ -42,21 +42,21 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>DevOps</p>
+		<p>DevOps with AWS</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>AWS</p>
+		<p>AWS Admin</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>CKA</p>
+		<p>CKA and CKD </p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
